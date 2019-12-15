@@ -1,1 +1,7 @@
-package Golang_Handson_Cryptography
+package main
+
+import "fmt"
+
+func main() {
+	fmt.Println("checking the go env")
+}
